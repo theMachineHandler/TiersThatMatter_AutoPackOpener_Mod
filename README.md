@@ -14,8 +14,20 @@ This mod requires BepInEx 5, so:
 ### Details
 This mod is fully open source. You can check it's code, change it and build it yourself. 
 
-It requires .NET SDK.
+It requires .NET SDK installed in your machine and BepInEx 5 installed in your game folder. 
 
+Create a new C# project with 
+
+```csharp
+dotnet new classlib -n NAME_OF_YOUR_PROJECT_HERE -f netstandard2.1
+```
+in your desired folder (netstandard 2.1 is required for TCG Card Shop Simulator v1.0) and overwrite the default files with the ones in this repository.
+
+Don't forget to set your game path inside the .csproj file before building it with 
+
+```csharp
+dotnet build
+```
 -----
 
 Enjoy it!
