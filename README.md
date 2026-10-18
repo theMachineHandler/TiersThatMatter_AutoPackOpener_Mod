@@ -1,3 +1,5 @@
+<img width="1590" height="871" alt="ProcessingImage" src="https://github.com/user-attachments/assets/12391e7b-6af2-4b9a-9170-1e494e982cc0" />
+
 # TiersThatMatter - AutoCardOpener Mod (for TCG Card Shop Simulator)
 
 Tired of upgrading your Auto Pack Opener machines only to find out that higher-tier machines take longer to process your packs? This mod fixes that!
